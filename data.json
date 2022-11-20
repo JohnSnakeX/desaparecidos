@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "John",
+    "apellido": "Doe",
+    "edad": 25,
+    "genero": "M",
+    "desaparicion": "15/05/2019",
+    "relato": "Noche oscura",
+    "fisico": "Lunar en la frente",
+    "estado": "TRUE",
+    "info": 63936985,
+    "contacto": "calle xx No.xxx",
+    "escolaridad": "10 mo bachillerato",
+    "familiar": "Elver Cantillo",
+    "reporte": "TRUE"
+  },
+  {
+    "nombre": "Jane",
+    "apellido": "Doe",
+    "edad": 25,
+    "genero": "F",
+    "desaparicion": "16/05/2019",
+    "relato": "En el dia",
+    "fisico": "Pecas de colores",
+    "estado": "FALSE",
+    "info": 4115215,
+    "contacto": "Av 14 65",
+    "escolaridad": "universitaria",
+    "familiar": "Pedro Perez",
+    "reporte": "FALSE"
+  }
+]
